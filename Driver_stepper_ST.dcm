@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L6470H
+D Fully integrated microstepping motor driver with motion engine and SPI
+$ENDCMP
+#
+#End Doc Library
